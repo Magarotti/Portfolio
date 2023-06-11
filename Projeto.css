@@ -1,0 +1,167 @@
+#nome{
+    color: white;
+    -webkit-text-stroke: 2px black;
+    position: fixed;
+    top: 5em;
+    right: 23.5em;
+}
+
+#eu1{
+    width: 300px;
+}
+#lhtm{
+    height: 7em;
+}
+#locss{
+    height: 7em;
+}
+#loja{
+    height: 7em;
+}
+#oralo{
+    height: 8em;
+}
+#javalo{
+    height: 10em;
+}
+
+#pio1{
+    width: 400px;
+}
+#pio2{
+    width: 400px;
+}
+#TCC{
+    height: 15em;
+
+}
+#TG{
+    width: 15em;
+}
+#btu{
+    background-image: url(ftu.jpg);
+    color: white;
+}
+#byu{
+    background-image: url(fyu.png);
+    color: white;
+}
+#bmi{
+    background-image: url(fmi.png);
+    background-repeat: no-repeat;
+    color: white;
+}
+#bsi{
+    background-image: url(fsi.jpg);
+    color: white;
+}
+#bri{
+    background-image: url(fri.jpg);
+    color: white;
+    background-repeat: no-repeat;
+}
+#htu{
+    background-color: #47aa77;
+}
+#hyu{
+    background-color: #d74646;
+}
+#hmi{
+    background-color: #a047b9;
+}
+#hsi{
+    background-color: #38aaf0;
+}
+#hri{
+    background-color: #e5a528;
+}
+#fotu{
+    background-color: #47aa77;
+}
+#foyu{
+    background-color: #d74646;
+}
+#fomi{
+    background-color: #a047b9;
+}
+#fosi{
+    background-color: #38aaf0;
+}
+#fori{
+    background-color: #e5a528;
+}
+#tu{
+    background-color: #47aa77;
+    background-image: url(tulin.png);
+    background-position: 8em -1.3em ;
+    background-size: 8em;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 15em;
+    height: 5em;
+    position: fixed;
+    top: 14em;
+    left: 16em;
+    
+}
+#yu{
+    background-color: #d74646;
+    background-image: url(yunobo.png);
+    background-position: 8em -1.3em ;
+    background-size: 8em;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 15em;
+    height: 5em;
+    position: fixed;
+    right: 16em;
+    top: 14em;
+}
+#mi{
+    background-color: #a047b9;
+    background-image: url(mineru.png);
+    background-position: 8em -1.3em ;
+    background-size: 8em;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 15em;
+    height: 5em;
+    position: fixed;
+    top: 19.6em;
+    right: 31em;
+}
+#si{
+    background-color: #38aaf0;
+    background-image: url(sidon.png);
+    background-position: 8em -1.3em ;
+    background-size: 8em;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 15em;
+    height: 5em;
+    position: fixed;
+    top: 25em;
+    right: 15.6em;
+}
+#ri{
+    background-color: #e5a528;
+    background-image: url(riju.png);
+    background-position: 8em -1.3em ;
+    background-size: 8em;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 15em;
+    height: 5em;
+    position: fixed;
+    top: 25em;
+    left: 16em;;
+}
+
+
+body{
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
